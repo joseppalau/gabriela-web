@@ -1,0 +1,11 @@
+Nombre:
+{{name}}
+
+Teléfono:
+{{phone}}
+
+Email:
+{{email}}
+
+Mensaje:
+{{message}}
